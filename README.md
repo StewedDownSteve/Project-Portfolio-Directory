@@ -24,12 +24,20 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Description**: My web development studio's site, highlighting services, portfolio, and a blog.
   - **Tech Stack**: HTML, CSS, JavaScript, Responsive Design
 
-  ### [Client Website 1](link-to-repo)
+  ### [Steve Rep Dev](link-to-repo)
   - **Description**: A fast, responsive website built for a local business.
   - **Tech Stack**: HTML, CSS, JavaScript
 
-  ### [Client Website 2](https://github.com/StewedDownSteve/Client_Megan_Portfolio)
+  ### [Moore Coffee Co.](https://github.com/StewedDownSteve/Client_Megan_Portfolio)
   - **Description**: Portfolio website for an artist, featuring animations and responsive design.
+  - **Tech Stack**: HTML, CSS, JavaScript
+
+  ### [Prospector Records](link-to-repo)
+  - **Description**: A fast, responsive website built for a local business.
+  - **Tech Stack**: HTML, CSS, JavaScript
+
+ ### [Megan Ouchida/Project Manager](https://github.com/StewedDownSteve/Client_Megan_Portfolio)
+  - **Description**: A fast, responsive website built for a local business.
   - **Tech Stack**: HTML, CSS, JavaScript
 
   _More client projects to be added here..._
