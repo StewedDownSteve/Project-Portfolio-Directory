@@ -51,9 +51,9 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Description**: A task management app with full CRUD functionality, built using MERN.
   - **Tech Stack**: MongoDB, Express.js, React, Node.js (MERN)
 
-  ### [Full-Stack App 2](https://github.com/StewedDownSteve/TicketTrackerFullStack)
-  - **Description**: A task management app with full CRUD functionality, built using MERN.
-  - **Tech Stack**: MongoDB, Express.js, React, Node.js (MERN)
+  ### [Random Img Generator, To Scale](https://github.com/StewedDownSteve/API_App_to_scale/)
+  - **Description**: A simple application designed to fetch random images from an API. The project aims to explore and       address real-world challenges related to handling multiple requests and optimizing performance.
+  - **Tech Stack**: JavaScript, Express.js, Node.js, BootStrap, Apache Benchmark
 
   _More full-stack apps to be added here..._
 
@@ -66,11 +66,11 @@ Here you’ll find an organized list of my projects, broken down by category for
 <details>
   <summary>Go Applications</summary>
 
-  ### [Go Project 1](https://github.com/StewedDownSteve/CRM-Golang)
+  ### [CRM with Go](https://github.com/StewedDownSteve/CRM-Golang)
   - **Description**: A RESTful API for managing user data with JWT authentication.
   - **Tech Stack**: Go, JWT, PostgreSQL, REST API
 
-  ### [Go Project 2](https://github.com/StewedDownSteve/Go-html-web-scraper)
+  ### [HTML Web Scrapper](https://github.com/StewedDownSteve/Go-html-web-scraper)
   - **Description**: CLI tool for data analysis using Go's concurrency features.
   - **Tech Stack**: Go, CSV Parsing, Concurrency
 
