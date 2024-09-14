@@ -20,27 +20,28 @@ Here you’ll find an organized list of my projects, broken down by category for
 <details>
   <summary>Client Websites and Freelance Projects (HTML, CSS, JavaScript)</summary>
 
-  ### [Good and Local Web Studio](link-to-repo)
-  - **Description**: My web development studio's site, highlighting services, portfolio, and a blog.
-  - **Tech Stack**: HTML, CSS, JavaScript, Responsive Design
-
-  ### [Steve Rep Dev](link-to-repo)
-  - **Description**: A fast, responsive website built for a local business.
+  ### [Good and Local Web Studio](https://goodlocalwebstudio.com/)
+  - **Description**: My web development studio's site, highlighting services, portfolio, and a contact form. 100 
+    on performance
   - **Tech Stack**: HTML, CSS, JavaScript
 
-  ### [Moore Coffee Co.](https://github.com/StewedDownSteve/Client_Megan_Portfolio)
-  - **Description**: Portfolio website for an artist, featuring animations and responsive design.
+  ### [Steve Rep Dev](https://steverepdev.com/)
+  - **Description**: My Portfolio for personal projects, software, and apps.
   - **Tech Stack**: HTML, CSS, JavaScript
 
-  ### [Prospector Records](link-to-repo)
-  - **Description**: A fast, responsive website built for a local business.
+  ### [Moore Coffee Co.](https://moorecoffeeco.netlify.app/)
+  - **Description**: Made for a PDX Coffee Shop, Responsive, 100 on performance.
+  - **Tech Stack**: HTML, CSS, JavaScript
+
+  ### [Prospector Records](https://prospector-records.netlify.app/)
+  - **Description**: Made for a local PDX record store, it is fast and responsive. 
   - **Tech Stack**: HTML, CSS, JavaScript
 
  ### [Megan Ouchida/Project Manager](https://github.com/StewedDownSteve/Client_Megan_Portfolio)
-  - **Description**: A fast, responsive website built for a local business.
+  - **Description**: A personal website/portfolio for a Product Manager.
   - **Tech Stack**: HTML, CSS, JavaScript
 
-  _More client projects to be added here..._
+  
 
 </details>
 
@@ -51,17 +52,26 @@ Here you’ll find an organized list of my projects, broken down by category for
 <details>
   <summary>MERN Stack and Full-Stack CRUD Applications</summary>
 
-  ### [Full-Stack App 1](https://github.com/StewedDownSteve/ProjectManagment_FS_App)
+  ### [Power To Project](https://github.com/StewedDownSteve/ProjectManagment_FS_App)
   - **Description**: An e-commerce platform with product management, authentication, and payment processing.
   - **Tech Stack**: MongoDB, Express.js, React, Node.js (MERN), JWT, Stripe API
 
-  ### [Full-Stack App 2](https://github.com/StewedDownSteve/storybookscopy)
-  - **Description**: A task management app with full CRUD functionality, built using MERN.
-  - **Tech Stack**: MongoDB, Express.js, React, Node.js (MERN)
+  ### [Simple CRM Go](https://github.com/StewedDownSteve/CRM-Golang)
+  - **Description**: It demonstrates basic CRUD operations with a Go backend and a simple front-end interface to interact with the API.
+  - **Tech Stack**: HTML, CSS, JavaScript, Go, Fiber, Gorm, SQLite, Postman
 
   ### [Random Img Generator, To Scale](https://github.com/StewedDownSteve/API_App_to_scale/)
-  - **Description**: A simple application designed to fetch random images from an API. The project aims to explore and       address real-world challenges related to handling multiple requests and optimizing performance.
+  - **Description**: A simple application designed to fetch random images from an API. The project aims to explore and address real-world challenges related to handling multiple requests and optimizing performance.
   - **Tech Stack**: JavaScript, Express.js, Node.js, BootStrap, Apache Benchmark
+
+  ### [Ticket Tracker App](https://github.com/StewedDownSteve/TicketTrackerFullStack)
+  - **Description**:  a CRUD app using MVC structure.
+  - **Tech Stack**: EJS, JavaScript, MongoDB, Express, Node, Bootstrap
+    
+  ### [Story Books App](https://github.com/StewedDownSteve/storybookscopy)
+  - **Description**: A task management app with full CRUD functionality, built using MERN.
+  - **Tech Stack**: MongoDB, Express.js, React, Node.js (MERN)
+    
 
   _More full-stack apps to be added here..._
 
@@ -82,7 +92,7 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Description**: CLI tool for data analysis using Go's concurrency features.
   - **Tech Stack**: Go, CSV Parsing, Concurrency
 
-  _More Go projects to be added here..._
+
 
 </details>
 
@@ -101,7 +111,7 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Description**: A puzzle game with dynamic level generation and progression tracking.
   - **Tech Stack**: Godot, GDScript
 
-  _More Godot games to be added here..._
+ 
 
 </details>
 
@@ -117,43 +127,46 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Tech Stack**: JavaScript, OpenWeather API, HTML, CSS
 
   ### [Geo Location Weather App](https://github.com/StewedDownSteve/Weather_App_Updated/tree/main)
-  - **Description**: A cryptocurrency tracker using the CoinGecko API and vanilla JavaScript.
-  - **Tech Stack**: JavaScript, CoinGecko API, HTML, CSS
+  - **Description**: A weather app fetching data from OpenWeather API and dynamically updating the DOM.
+  - **Tech Stack**: JavaScript, OpenWeather API, HTML, CSS
 
   ### [Alien Guide App](https://github.com/StewedDownSteve/ST-Alien-Guide-App)
-  - **Description**: A cryptocurrency tracker using the CoinGecko API and vanilla JavaScript.
-  - **Tech Stack**: JavaScript, CoinGecko API, HTML, CSS
+  - **Description**: Used an awesome front-end template to get the Star Trek vibe. Then, I added in Javascript to fetch data from a simple API that has some of the Star Trek aliens, with info and a photo.
+  - **Tech Stack**: MongoDB, CSS, HTML, JavaScript
 
-  ### [API App 2](https://github.com/StewedDownSteve/Weather_App_Updated/tree/main)
-  - **Description**: A cryptocurrency tracker using the CoinGecko API and vanilla JavaScript.
-  - **Tech Stack**: JavaScript, CoinGecko API, HTML, CSS
+  ### [Random Img Generator, To Scale](https://github.com/StewedDownSteve/API_App_to_scale/)
+  - **Description**: A simple application designed to fetch random images from an API. The project aims to explore and address real-world challenges related to handling multiple requests and optimizing performance.
+  - **Tech Stack**: JavaScript, Express.js, Node.js, BootStrap, Apache Benchmark
 
-  _More API apps to be added here..._
+ 
 
 </details>
 
 ---
 
-## JavaScript Projects
+## JavaScript & Early Projects
 
 <details>
   <summary>JavaScript Games and Projects</summary>
 
-  ### [JS Game 1](https://github.com/StewedDownSteve/CodeWars_All_kyu)
-  - **Description**: A simple snake game using JavaScript and Canvas.
-  - **Tech Stack**: JavaScript, HTML5 Canvas, CSS
+  ### [CodeWars JS](https://github.com/StewedDownSteve/CodeWars_All_kyu)
+  - **Description**: Codewars Problems, solved in JS
+  - **Tech Stack**: JavaScript
 
-  ### [JS Game 2](https://github.com/StewedDownSteve/react-task-app)
-  - **Description**: A space shooter with score tracking and enemy spawning mechanics.
-  - **Tech Stack**: JavaScript, HTML5 Canvas, CSS
+    ### [Drag and Drop Kanban](https://github.com/StewedDownSteve/Drag_Drop_kanban/blob/main/README.md)
+  - **Description**: A simple Kanban, used JS for drag and drop
+  - **Tech Stack**: JavaScript, HTML, CSS  
+  
+  
+  ### [Calculator](https://github.com/StewedDownSteve/JSCalculator)
+  - **Description**: A functional JS calculator
+  - **Tech Stack**: JavaScript, HTML, CSS
 
-  ### [JS Project 1](https://github.com/StewedDownSteve/Drag_Drop_kanban/blob/main/README.md)
-  - **Description**: A random quote generator that fetches quotes from an API.
-  - **Tech Stack**: JavaScript, Fetch API, HTML, CSS
 
- ### [JS Project 1](https://github.com/StewedDownSteve/Drag_Drop_kanban/blob/main/README.md)
-  - **Description**: A random quote generator that fetches quotes from an API.
-  - **Tech Stack**: JavaScript, Fetch API, HTML, CSS
+
+ ### [Tic Tac Toe](https://github.com/StewedDownSteve/TicTacToe_JS)
+  - **Description**: An early Tic Tac Toe game to understand JS.
+  - **Tech Stack**: JavaScript, HTML, CSS
 
   _More JavaScript projects to be added here..._
 
@@ -161,9 +174,7 @@ Here you’ll find an organized list of my projects, broken down by category for
 
 ---
 
-## How to Explore Projects:
-- Click on a project name to be taken to its detailed README.
-- Each README will provide a summary of the project, key features, challenges, and the technologies used.
+
 
 ---
 
