@@ -103,12 +103,12 @@ Here you’ll find an organized list of my projects, broken down by category for
 <details>
   <summary>2D Games Developed with Godot</summary>
 
-  ### [2D Game 1](https://github.com/StewedDownSteve/henry-day-out-game)
-  - **Description**: A platformer game with custom physics and animations.
+  ### [Henry's Day Out](https://github.com/StewedDownSteve/henry-day-out-game)
+  - **Description**: A platformer game with custom physics, animations, dynamic level generation and progression tracking.
   - **Tech Stack**: Godot, GDScript
 
-  ### [2D Game 2](https://github.com/StewedDownSteve/gotdot_first_game)
-  - **Description**: A puzzle game with dynamic level generation and progression tracking.
+  ### [My First Game](https://github.com/StewedDownSteve/gotdot_first_game)
+  - **Description**: A simple side scroller, has basic enemy AI, physics controllers, input controllers.
   - **Tech Stack**: Godot, GDScript
 
  
