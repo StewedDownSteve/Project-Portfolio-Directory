@@ -121,10 +121,14 @@ Here you’ll find an organized list of my projects, broken down by category for
 
 <details>
   <summary>API Fetching and Front-End Apps</summary>
-
-  ### [D&D Monter Finder](https://github.com/StewedDownSteve/monster_api_app)
-  - **Description**: A weather app fetching data from OpenWeather API and dynamically updating the DOM.
-  - **Tech Stack**: JavaScript, OpenWeather API, HTML, CSS
+  
+  ### [Random Img Generator, To Scale](https://github.com/StewedDownSteve/API_App_to_scale/)
+  - **Description**: A simple application designed to fetch random images from an API. The project aims to explore and address real-world challenges related to handling multiple requests and optimizing performance.
+  - **Tech Stack**: JavaScript, Express.js, Node.js, BootStrap, Apache Benchmark
+  
+  ### [Monter Finder for DnD 5e](https://github.com/StewedDownSteve/DnD-Monster-Finder-5e)
+  - **Description**: Monster Finder for DnD 5e is a web application that leverages the DnD5e API to fetch and display detailed information about Dungeons & Dragons monsters.
+  - **Tech Stack**: HTML, CSS, Bootstrap, JavaScript, D&D 5e API
 
   ### [Geo Location Weather App](https://github.com/StewedDownSteve/Weather_App_Updated/tree/main)
   - **Description**: A weather app fetching data from OpenWeather API and dynamically updating the DOM.
@@ -134,9 +138,7 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Description**: Used an awesome front-end template to get the Star Trek vibe. Then, I added in Javascript to fetch data from a simple API that has some of the Star Trek aliens, with info and a photo.
   - **Tech Stack**: MongoDB, CSS, HTML, JavaScript
 
-  ### [Random Img Generator, To Scale](https://github.com/StewedDownSteve/API_App_to_scale/)
-  - **Description**: A simple application designed to fetch random images from an API. The project aims to explore and address real-world challenges related to handling multiple requests and optimizing performance.
-  - **Tech Stack**: JavaScript, Express.js, Node.js, BootStrap, Apache Benchmark
+
 
  
 
@@ -144,10 +146,10 @@ Here you’ll find an organized list of my projects, broken down by category for
 
 ---
 
-## JavaScript & Early Projects
+## JavaScript & Random Projects
 
 <details>
-  <summary>JavaScript Games and Projects</summary>
+  <summary>JavaScript Focused and Random Projects</summary>
 
   ### [CodeWars JS](https://github.com/StewedDownSteve/CodeWars_All_kyu)
   - **Description**: Codewars Problems, solved in JS
