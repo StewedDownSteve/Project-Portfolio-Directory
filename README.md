@@ -142,6 +142,10 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Description**: Used an awesome front-end template to get the Star Trek vibe. Then, I added in Javascript to fetch data from a simple API that has some of the Star Trek aliens, with info and a photo.
   - **Tech Stack**: MongoDB, CSS, HTML, JavaScript
 
+ ### [Doggo Generator](https://github.com/StewedDownSteve/Dog-Generator-API/tree/main)
+  - **Description**: web app that allows users to fetch random pictures of dogs based on breed selection using an API. It showcases the use of HTML, CSS, and JavaScript to build a functional, responsive app with a clean UI. This project demonstrates my ability to work with APIs, style elements, and create a smooth user experience.
+
+  - **Tech Stack**: CSS, HTML, JavaScript
 
 
  
