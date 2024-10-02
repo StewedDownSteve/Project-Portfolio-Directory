@@ -29,7 +29,7 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Description**: My Portfolio for personal projects, software, and apps.
   - **Tech Stack**: HTML, CSS, JavaScript
 
-  ### [Moore Coffee Co.](https://moorecoffeeco.netlify.app/)
+  ### [Moore Coffee Co.](https://github.com/StewedDownSteve/Moore-Coffee-Overview)
   - **Description**: Made for a PDX Coffee Shop, Responsive, 100 on performance.
   - **Tech Stack**: HTML, CSS, JavaScript
 
