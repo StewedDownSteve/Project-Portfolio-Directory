@@ -71,6 +71,10 @@ Here you’ll find an organized list of my projects, broken down by category for
   ### [Story Books App](https://github.com/StewedDownSteve/storybookscopy)
   - **Description**: A task management app with full CRUD functionality, built using MERN.
   - **Tech Stack**: MongoDB, Express.js, React, Node.js (MERN)
+
+  ### [Restaurant Tracker App](https://github.com/StewedDownSteve/Menu-Tracker-CRUD/tree/main)
+  - **Description**: A CRUD project that allows users to track their favorite restaurants by adding links to menus and uploading logos. The app displays each   restaurant's logo, name, and a link to its menu.
+  - **Tech Stack**: HTML, CSS, JavaScript, EJS, Node.js, Express, MongoDB, Mongoose, Multer
     
 
   _More full-stack apps to be added here..._
