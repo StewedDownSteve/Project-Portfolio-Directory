@@ -53,8 +53,8 @@ Here you’ll find an organized list of my projects, broken down by category for
   <summary>MERN Stack and Full-Stack CRUD Applications</summary>
 
   ### [Power To Project](https://github.com/StewedDownSteve/ProjectManagment_FS_App)
-  - **Description**: An e-commerce platform with product management, authentication, and payment processing.
-  - **Tech Stack**: MongoDB, Express.js, React, Node.js (MERN), JWT, Stripe API
+  - **Description**: This application empowers users to effortlessly manage projects, and their statuses, and connect customers with ease. Scalable MERN stack-based project management CRUD app
+  - **Tech Stack**: GraphQl, Apollo, MongoDB, Express, React, Node, Javascript, CSS
 
   ### [Simple CRM Go](https://github.com/StewedDownSteve/CRM-Golang)
   - **Description**: It demonstrates basic CRUD operations with a Go backend and a simple front-end interface to interact with the API.
@@ -69,12 +69,12 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Tech Stack**: HTML, CSS, JavaScript, Node.js, Express, MongoDB, EJS
 
   ### [Ticket Tracker App](https://github.com/StewedDownSteve/TicketTrackerFullStack)
-  - **Description**:  a CRUD app using MVC structure.
+  - **Description**:  I took a demo ticket tracker that I had built with local storage(HTML, CSS, JS) and turned it into a full-stack application. I rebuilt it as a CRUD app using MVC structure.
   - **Tech Stack**: EJS, JavaScript, MongoDB, Express, Node, Bootstrap
     
   ### [Story Books App](https://github.com/StewedDownSteve/storybookscopy)
-  - **Description**: A task management app with full CRUD functionality, built using MERN.
-  - **Tech Stack**: MongoDB, Express.js, React, Node.js (MERN)
+  - **Description**: A full-stack web app, copy of Storybooks format and function. Allows the user to log in using Google and post and share their own stories.
+  - **Tech Stack**: Node.js, Express, MongoDB, Handlebars, Google OAuth
 
   ### [Restaurant Tracker App](https://github.com/StewedDownSteve/Menu-Tracker-CRUD/tree/main)
   - **Description**: A CRUD project that allows users to track their favorite restaurants by adding links to menus and uploading logos. The app displays each   restaurant's logo, name, and a link to its menu.
@@ -134,7 +134,7 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Description**: A simple application designed to fetch random images from an API. The project aims to explore and address real-world challenges related to handling multiple requests and optimizing performance.
   - **Tech Stack**: JavaScript, Express.js, Node.js, BootStrap, Apache Benchmark
   
-  ### [Monter Finder for DnD 5e](https://github.com/StewedDownSteve/DnD-Monster-Finder-5e)
+  ### [Monster Finder for DnD 5e](https://github.com/StewedDownSteve/DnD-Monster-Finder-5e)
   - **Description**: Monster Finder for DnD 5e is a web application that leverages the DnD5e API to fetch and display detailed information about Dungeons & Dragons monsters.
   - **Tech Stack**: HTML, CSS, Bootstrap, JavaScript, D&D 5e API
 
