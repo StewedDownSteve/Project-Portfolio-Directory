@@ -64,6 +64,10 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Description**: A simple application designed to fetch random images from an API. The project aims to explore and address real-world challenges related to handling multiple requests and optimizing performance.
   - **Tech Stack**: JavaScript, Express.js, Node.js, BootStrap, Apache Benchmark
 
+  ### [CatBook Redone!](https://github.com/StewedDownSteve/Cat-Book-Redone)
+  - **Description**:  A simple web app to manage a database of cats, where users can upload cat profiles with pictures, edit cat information, and view a list of cats.
+  - **Tech Stack**: HTML, CSS, JavaScript, Node.js, Express, MongoDB, EJS
+
   ### [Ticket Tracker App](https://github.com/StewedDownSteve/TicketTrackerFullStack)
   - **Description**:  a CRUD app using MVC structure.
   - **Tech Stack**: EJS, JavaScript, MongoDB, Express, Node, Bootstrap
