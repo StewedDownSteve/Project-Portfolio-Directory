@@ -25,10 +25,6 @@ Here you’ll find an organized list of my projects, broken down by category for
     on performance
   - **Tech Stack**: HTML, CSS, JavaScript
 
-  ### [Steve Rep Dev](https://steverepdev.com/)
-  - **Description**: My Portfolio for personal projects, software, and apps.
-  - **Tech Stack**: HTML, CSS, JavaScript
-
   ### [Moore Coffee Co.](https://github.com/StewedDownSteve/Moore-Coffee-Overview)
   - **Description**: Made for a PDX Coffee Shop, Responsive, 100 on performance.
   - **Tech Stack**: HTML, CSS, JavaScript
@@ -39,6 +35,11 @@ Here you’ll find an organized list of my projects, broken down by category for
 
  ### [Megan Ouchida/Project Manager](https://github.com/StewedDownSteve/Client_Megan_Portfolio)
   - **Description**: A personal website/portfolio for a Product Manager.
+  - **Tech Stack**: HTML, CSS, JavaScript
+
+    
+  ### [Steve Rep Dev](https://steverepdev.com/)
+  - **Description**: My Portfolio for personal projects, software, and apps.
   - **Tech Stack**: HTML, CSS, JavaScript
 
   
@@ -52,9 +53,6 @@ Here you’ll find an organized list of my projects, broken down by category for
 <details>
   <summary>MERN Stack and Full-Stack CRUD Applications</summary>
 
-  ### [Power To Project](https://github.com/StewedDownSteve/ProjectManagment_FS_App)
-  - **Description**: This application empowers users to effortlessly manage projects, and their statuses, and connect customers with ease. Scalable MERN stack-based project management CRUD app
-  - **Tech Stack**: GraphQl, Apollo, MongoDB, Express, React, Node, Javascript, CSS
 
   ### [Simple CRM Go](https://github.com/StewedDownSteve/CRM-Golang)
   - **Description**: It demonstrates basic CRUD operations with a Go backend and a simple front-end interface to interact with the API.
@@ -67,6 +65,10 @@ Here you’ll find an organized list of my projects, broken down by category for
   ### [CatBook Redone!](https://github.com/StewedDownSteve/Cat-Book-Redone)
   - **Description**:  A simple web app to manage a database of cats, where users can upload cat profiles with pictures, edit cat information, and view a list of cats.
   - **Tech Stack**: HTML, CSS, JavaScript, Node.js, Express, MongoDB, EJS
+
+ ### [Power To Project](https://github.com/StewedDownSteve/ProjectManagment_FS_App)
+  - **Description**: This application empowers users to effortlessly manage projects, and their statuses, and connect customers with ease. Scalable MERN stack-based project management CRUD app
+  - **Tech Stack**: GraphQl, Apollo, MongoDB, Express, React, Node, Javascript, CSS
 
   ### [Ticket Tracker App](https://github.com/StewedDownSteve/TicketTrackerFullStack)
   - **Description**:  I took a demo ticket tracker that I had built with local storage(HTML, CSS, JS) and turned it into a full-stack application. I rebuilt it as a CRUD app using MVC structure.
