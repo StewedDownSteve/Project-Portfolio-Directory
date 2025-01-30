@@ -18,19 +18,28 @@ Here you’ll find an organized list of my projects, broken down by category for
 ## Web Development / Client Sites
 
 <details>
-  <summary>Client Websites and Freelance Projects (HTML, CSS, JavaScript)</summary>
+  <summary>Client Websites and Freelance Projects (HTML, CSS, JavaScript, React, 11ty, Node, nunjucks, Sass)</summary>
 
+   ### [BeautyMarks PDX](https://github.com/StewedDownSteve/BeautyMarks-Public/tree/main)
+  - **Description**: Website for cosmetic tattoos in Portland. Will have Decap CMS.
+  - **Tech Stack**: HTML, React, Node.js, 11ty, Nunjucks, SASS, JavaScript, Decap CMS, Netlify
+
+ ### [Dr. Khalil Marrar](https://github.com/StewedDownSteve/Dr-khalil-marrar-public)
+  - **Description**: A professional website for a Professor and Published Writer.
+  - **Tech Stack**: HTML, CSS, React, Node.js, 11ty, Nunjucks, SASS, JavaScript, Decap CMS, Netlify
+  
+  
   ### [Good and Local Web Studio](https://goodlocalwebstudio.com/)
   - **Description**: My web development studio's site, highlighting services, portfolio, and a contact form. 100 
-    on performance
+    on performance Google PageSpeed
   - **Tech Stack**: HTML, CSS, JavaScript
 
   ### [Moore Coffee Co.](https://github.com/StewedDownSteve/Moore-Coffee-Overview)
-  - **Description**: Made for a PDX Coffee Shop, Responsive, 100 on performance.
+  - **Description**: Made for a PDX Coffee Shop, Responsive, 100 on performance Google PageSpeed.
   - **Tech Stack**: HTML, CSS, JavaScript
 
   ### [Prospector Records](https://prospector-records.netlify.app/)
-  - **Description**: Made for a local PDX record store, it is fast and responsive. 
+  - **Description**: Made for a local PDX record store, it is fast and responsive. 99 on Google PageSpeed
   - **Tech Stack**: HTML, CSS, JavaScript
 
  ### [Megan Ouchida/Project Manager](https://github.com/StewedDownSteve/Client_Megan_Portfolio)
@@ -89,7 +98,7 @@ Here you’ll find an organized list of my projects, broken down by category for
 
 ---
 
-## Go Projects
+## Go Projects | Python
 
 <details>
   <summary>Go Applications</summary>
@@ -98,10 +107,13 @@ Here you’ll find an organized list of my projects, broken down by category for
   - **Description**: A RESTful API for managing user data with JWT authentication.
   - **Tech Stack**: Go, JWT, PostgreSQL, REST API
 
-  ### [HTML Web Scrapper](https://github.com/StewedDownSteve/Go-html-web-scraper)
+  ### [Go HTML Web Scrapper](https://github.com/StewedDownSteve/Go-html-web-scraper)
   - **Description**: CLI tool for data analysis using Go's concurrency features.
   - **Tech Stack**: Go, CSV Parsing, Concurrency
 
+  ### [Python HTML Web Scrapper](https://github.com/StewedDownSteve/Python-html-web-scrapper)
+  - **Description**: A simple approach to HTML scrapping with Python.
+  - **Tech Stack**: Python, Concurrency
 
 
 </details>
