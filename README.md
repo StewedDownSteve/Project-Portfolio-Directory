@@ -7,7 +7,7 @@ Here you’ll find an organized list of my projects, broken down by category for
 ## Table of Contents
 - [Web Development / Client Sites](#web-development--client-sites)
 - [Full-Stack Web Applications](#full-stack-web-applications)
-- [Go Projects](#go-projects)
+- [Go Projects / Web Scrappers](#go-projects)
 - [Godot 2D Games](#godot-2d-games)
 - [API Apps (JavaScript / Front-End)](#api-apps-javascript--front-end)
 - [JavaScript Projects](#javascript-projects)
@@ -98,11 +98,16 @@ Here you’ll find an organized list of my projects, broken down by category for
 
 ---
 
-## Go Projects | Python
+## Go Projects | Web Scrappers (Python, JS, Playwright)
 
 <details>
   <summary>Go Applications</summary>
 
+  ### [Playwright, JS, Hacker News Scrapper](https://github.com/StewedDownSteve/Playwright-JS-web-scrape)
+  - **Description**: Gather articles from hacker news and sort them. Uses their timestamp and title.
+  - **Tech Stack**: Playwright, Javascript, Node
+  
+  
   ### [CRM with Go](https://github.com/StewedDownSteve/CRM-Golang)
   - **Description**: A RESTful API for managing user data with JWT authentication.
   - **Tech Stack**: Go, JWT, PostgreSQL, REST API
